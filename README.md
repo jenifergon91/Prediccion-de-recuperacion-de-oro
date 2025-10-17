@@ -44,5 +44,5 @@ $ sMAPE_{final} = 0.25 \times sMAPE_{rougher} + 0.75 \times sMAPE_{final} $
 
 ## Estructura del Proyecto
 
-El núcleo del proyecto se encuentra en el notebook de Google Colab (o Jupyter Notebook) principal. La estructura de archivos recomendada es:
+El núcleo del proyecto se encuentra en el notebook principal. La estructura de archivos es:
 ├── gold_recovery_train.csv ├── gold_recovery_test.csv ├── gold_recovery_full.csv ├── Prediccion_oro.ipynb └── README.md
